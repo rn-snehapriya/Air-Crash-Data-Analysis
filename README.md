@@ -7,4 +7,4 @@ The main intention of the analysis is to analyse the main reason as to why an ai
 - Query language used is **Hive**.
 - Data visualization for further analysis was done in **Tableau**.
 
-Note: The dataset which is downloaded after classification using Naive Bayes is then uploaded into HDFS for further analysis using Hadoop.
+Note: The dataset which is downloaded after classification using Naive Bayes (labelled.csv) is then uploaded into HDFS for further analysis using Hadoop.
